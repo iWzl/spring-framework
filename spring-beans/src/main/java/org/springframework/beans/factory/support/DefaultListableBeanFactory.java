@@ -104,6 +104,8 @@ import org.springframework.util.StringUtils;
  * have a look at {@link StaticListableBeanFactory}, which manages existing
  * bean instances rather than creating new ones based on bean definitions.
  *
+ * 综合所有功能,主要是对Bean注册后的处理
+ *
  * @author Rod Johnson
  * @author Juergen Hoeller
  * @author Sam Brannen

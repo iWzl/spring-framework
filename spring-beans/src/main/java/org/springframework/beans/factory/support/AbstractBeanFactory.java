@@ -101,6 +101,8 @@ import org.springframework.util.StringValueResolver;
  * respectively. Default implementations of those operations can be found in
  * {@link DefaultListableBeanFactory} and {@link AbstractAutowireCapableBeanFactory}.
  *
+ * 综合FactoryBeanRegistrySupport和ConfigurableBeanFactory的功能
+ *
  * @author Rod Johnson
  * @author Juergen Hoeller
  * @author Costin Leau

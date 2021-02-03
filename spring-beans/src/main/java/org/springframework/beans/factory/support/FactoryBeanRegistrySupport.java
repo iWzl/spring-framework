@@ -38,6 +38,8 @@ import org.springframework.lang.Nullable;
  *
  * <p>Serves as base class for {@link AbstractBeanFactory}.
  *
+ * 在DefaultSingletonBeanRegistry基础上,增加了FactoryBean的支持
+ *
  * @author Juergen Hoeller
  * @since 2.5.1
  */
