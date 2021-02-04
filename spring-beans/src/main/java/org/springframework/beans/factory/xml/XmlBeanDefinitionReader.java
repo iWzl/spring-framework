@@ -65,6 +65,8 @@ import org.springframework.util.xml.XmlValidationModeDetector;
  * talking to the latter's implementation of the
  * {@link org.springframework.beans.factory.support.BeanDefinitionRegistry} interface.
  *
+ * 定义资源文件加载到并装换为Document的功能
+ *
  * @author Juergen Hoeller
  * @author Rob Harrop
  * @author Chris Beams
